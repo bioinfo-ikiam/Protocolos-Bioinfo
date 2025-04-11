@@ -10,7 +10,7 @@ Presentar a investigadores recursos experimentales-prácticos de biotecnología 
 
 ## PROTOCOLOS DISPONIBLES
 
-* Secuenciamiento NGS: MinION ([Protocolo 1](bioinfo-ikiam/bioinfo.txt))
+* Secuenciamiento NGS: MinION ([Protocolo 1](bioinfo-ikiam/bioinfo.md))
 * Metagenómica de la región 16S y el uso del servidor GALAXY AUSTRALIA (https://usegalaxy.org.au/)
 
 ## PRÓXIMOS PROTOCOLOS
