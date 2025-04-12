@@ -44,7 +44,26 @@ NOTA: Consiste en extraer y estabilizar el ADN de la muestra mediante un buffer 
 2. Descongele los códigos de barras deseados a temperatura ambiente.
 
 3. Centrifugue brevemente los códigos de barras en una microcentrifuga para asegurarse de que el líquido esté en el fonda de los tubos y coloquelos en hielo
+
 4. Descongelar el LongAmp Hot Start Taq 2X Master Mix, centrifugue brevemente, mezcle bien pipeteando y colóquelo en hielo.
 
+5. Preparar el ADN libre de nucleadas
+ a. Transfiera 10 ng de cada muestra de ADN genómico a un tubo de PCR de pared delgada de 0,2 ml.
+ b. Ajustar el volumen a 15 ul con agua libre de nucleasas.
+ c. Mezcle bien agitando la mezcla para evitar cortes no deseados.
 
-_ 4 -
+6. En cada tubo de PCR de pared fina de 0,2 ml que contenga la muestra a analizar, prepare la siguiente mezcla:
+
+7. Asegúrese de que los componentes estén bien mezclados pipeteando y centrifugando brevemente.
+
+8. Con puntas de pipeta limpias, perfore con cuidado la superficie de aluminio de los códigos de barras necesarios. Utilice una punta nueva para cada código de barras para evitar la contaminación cruzada. Anote qué números de código de barras se analizarán para cada muestra.
+
+
+9. Con una pipeta, mezcle los códigos de barras 165 pipeteando hacia arriba y hacia abajo 10 veces. Transfiera 10 µl de cada código de barras 165 a los tubos que contienen la muestra correspondiente.
+
+10. Asegúrese de que los componentes estén bien mezclados pipeteando el contenido de los tubos 10 veces y centrifugando.
+
+Nota: Mezcle suavemente para minimizar la introducción de burbujas de aire en las reacciones.
+
+
+
