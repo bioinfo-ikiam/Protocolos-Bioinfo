@@ -39,10 +39,12 @@ NOTA: Consiste en extraer y estabilizar el ADN de la muestra mediante un buffer 
 
 1. Tome una placa de 96 pocillos que contenga códigos de barras 165. Separe un conjunto de códigos de barras (1 a 24, o según lo desee) de la placa y devuelva el resto al almacenamiento.
 
-NOTA: Las placas de 96 pocillos están diseñadas para romperse en una sola dirección. Se pueden retirar de la placa tiras o múltiples tiras de ocho pocillos/códigos de barras a la vez.
+[¡NOTE]: Las placas de 96 pocillos están diseñadas para romperse en una sola dirección. Se pueden retirar de la placa tiras o múltiples tiras de ocho pocillos/códigos de barras a la vez.
 
 2. Descongele los códigos de barras deseados a temperatura ambiente.
 
 3. Centrifugue brevemente los códigos de barras en una microcentrifuga para asegurarse de que el líquido esté en el fonda de los tubos y coloquelos en hielo
-- 4 -
+4. Descongelar el LongAmp Hot Start Taq 2X Master Mix, centrifugue brevemente, mezcle bien pipeteando y colóquelo en hielo.
+
+
 _ 4 -
