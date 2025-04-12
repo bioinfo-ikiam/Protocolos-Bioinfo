@@ -43,6 +43,6 @@ NOTA: Las placas de 96 pocillos están diseñadas para romperse en una sola dire
 
 2. Descongele los códigos de barras deseados a temperatura ambiente.
 
-- 3 -
+3. Centrifugue brevemente los códigos de barras en una microcentrifuga para asegurarse de que el líquido esté en el fonda de los tubos y coloquelos en hielo
 - 4 -
 _ 4 -
