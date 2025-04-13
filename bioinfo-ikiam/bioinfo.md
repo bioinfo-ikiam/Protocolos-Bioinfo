@@ -171,10 +171,8 @@ IMPORTANTE: Tenga cuidado a la hora de extraer el tampón. No retire más de 20-
 | Volume final| 75 µl |
 
 9. Completar el cebado de la celda de flujo:
-
-a. Levantar suavemente la tapa del puerto de muestra SpotON.
-
-b. Cargar 200 µl de mezcla de cebado en el puerto de cebado (no en el puerto de
+ a. Levantar suavemente la tapa del puerto de muestra SpotON.
+ b. Cargar 200 µl de mezcla de cebado en el puerto de cebado (no en el puerto de
 
 muestra SpotON), evitando introducir burbujas de aire.
 
@@ -182,7 +180,6 @@ muestra SpotON), evitando introducir burbujas de aire.
 
 11. Añadir, gota a gota, 75 µl de la biblioteca preparada en el puerto de muestra SpotON. Procurar que cada gota fluya hacia adentro del puerto antes de añadir la siguiente.
 
-tapón encaje en el agujero y cerrar el puerto de cebado.
 
 12. Volver a colocar con cuidado, la tapa del puerto de muestra SpotON, procurando que el tapón encaje en el agujero y cerrar el puerto de cebado 
 
