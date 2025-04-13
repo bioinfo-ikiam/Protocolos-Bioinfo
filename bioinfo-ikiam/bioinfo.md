@@ -120,6 +120,72 @@ Nota: La tabla contiene volúmenes de ejemplo para referencia. Ajuste el volumen
 | --- | --- |
 | Adaptador rápido | 1,5 µl |
 | Buffer adaptador | 3,5 µl |
+| Total | 5 µl |
+
+
+30. Agregue 1 µl del adaptador rápido (RA) diluido al ADN con código de barras.
+
+31. Mezcle suavemente moviendo el tubo.
+
+32. Incubar la reacción durante 5 minutos a temperatura ambiente.
+
+FIN DEL PROCESO: La biblioteca preparada se utiliza para cargarla en la celda de flujo.
+
+NOTA: Consérvela en hielo hasta que esté lista para cargarla.
+
+# CEBADO Y CARGA DE LA CELDA DE FLUJO MINION
+
+1. Descongelar los viales Sequencing Buffer (SB), Library Beads (LIB) o Library Solution (LIS), -si se requiere-, y un tubo de Flow Cell Flush (FCF) a temperatura ambiente. Agitar en vortex, centrifugar y colocar en hielo.
+
+2. Para preparar la mezcla de cebado de la celda de flujo con BSA, combine los siguientes reactivos en un tubo Eppendorf DNA LoBind nuevo de 1,5 ml. Mezcle invirtiendo el tubo y mezcle con la pipeta a temperatura ambiente:
+
+| Reactivo | Volumen por celda |
+| --- | --- |
+| Flow Cell Flush (FCF) | 1170 µl |
+| Bovine Serum Albumin | 5 µl |
+| Flow Cell Tether | 30 µl |
+| Volumen final| 1205 µl |
+
+3. Abrir la tapa del dispositivo MinION y deslizar la celda de flujo debajo del clip. Presionar la celda de flujo con firmeza para asegurar un contacto eléctrico y térmico adecuados.
+
+4. Para abrir el puerto de cebado de la celda de flujo, deslizar la tapa en el sentido de las agujas del reloj.
+
+IMPORTANTE: Tenga cuidado a la hora de extraer el tampón. No retire más de 20-30 με y asegúrese de que el tampón cubra la matriz de poros en todo momento. La introducción de burbujas de aire en la matriz puede dañar los poros de manera irreversible.
+
+5. Tras abrir el puerto de cebado, verificar si hay una burbuja de aire bajo la tapa. Retirar una pequeña cantidad de tampón para quitar las burbujas:
+ a. Ajustar una pipeta P1000 a 200 μι.
+ b. Introducir la punta de la pipeta en el puerto de cebado.
+ c. Girar la rueda hasta que el indicador de volumen marque 220-230 µl o hasta que se pueda ver una pequeña cantidad de tampón entrar en la punta de la pipeta.
+
+6. Cargar 800 µl de mezcla de cebado en el puerto de cebado, evitando introducir burbujas de aire. Esperar 5 minutos. Durante este tiempo, preparar la biblioteca para cargar siguiendo los pasos a continuación.
+
+7. Mezclar con la pipeta, minuciosamente, el contenido del vial Library Beads (LIB).
+
+8. En un tubo nuevo de 1,5 ml Eppendorf DNA LoBind, preparar la biblioteca de la siguiente manera:
+
+| Reactivo | Volumen por celda |
+| --- | --- |
+| Buffer de secuenciación (SB) | 37,5 µl |
+| Biblioteca de ADN | 12 µl |
+| Library Beads (LIB) mezoladas (usto antes de usar, o Library Solution (LIS), si se requiere
+ | 25,5 µl |
+| Volume final| 75 µl |
+
+9. Completar el cebado de la celda de flujo:
+
+a. Levantar suavemente la tapa del puerto de muestra SpotON.
+
+b. Cargar 200 µl de mezcla de cebado en el puerto de cebado (no en el puerto de
+
+muestra SpotON), evitando introducir burbujas de aire.
+
+10. Mezclar la biblioteca pipeteando suavemente, justo antes de cargar.
+
+11. Añadir, gota a gota, 75 µl de la biblioteca preparada en el puerto de muestra SpotON. Procurar que cada gota fluya hacia adentro del puerto antes de añadir la siguiente.
+
+tapón encaje en el agujero y cerrar el puerto de cebado.
+
+12. Volver a colocar con cuidado, la tapa del puerto de muestra SpotON, procurando que el tapón encaje en el agujero y cerrar el puerto de cebado 
 
 
 
