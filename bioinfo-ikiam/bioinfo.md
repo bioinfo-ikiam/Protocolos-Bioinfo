@@ -133,7 +133,7 @@ FIN DEL PROCESO: La biblioteca preparada se utiliza para cargarla en la celda de
 
 NOTA: Consérvela en hielo hasta que esté lista para cargarla.
 
-# CEBADO Y CARGA DE LA CELDA DE FLUJO MINION
+# E. Cebado y carga de la celda de flujo MinION
 
 1. Descongelar los viales Sequencing Buffer (SB), Library Beads (LIB) o Library Solution (LIS), -si se requiere-, y un tubo de Flow Cell Flush (FCF) a temperatura ambiente. Agitar en vortex, centrifugar y colocar en hielo.
 
