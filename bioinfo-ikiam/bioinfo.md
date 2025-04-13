@@ -150,10 +150,10 @@ NOTA: Consérvela en hielo hasta que esté lista para cargarla.
 
 4. Para abrir el puerto de cebado de la celda de flujo, deslizar la tapa en el sentido de las agujas del reloj.
 
-IMPORTANTE: Tenga cuidado a la hora de extraer el tampón. No retire más de 20-30 με y asegúrese de que el tampón cubra la matriz de poros en todo momento. La introducción de burbujas de aire en la matriz puede dañar los poros de manera irreversible.
+IMPORTANTE: Tenga cuidado a la hora de extraer el tampón. No retire más de 20-30 μl y asegúrese de que el tampón cubra la matriz de poros en todo momento. La introducción de burbujas de aire en la matriz puede dañar los poros de manera irreversible.
 
 5. Tras abrir el puerto de cebado, verificar si hay una burbuja de aire bajo la tapa. Retirar una pequeña cantidad de tampón para quitar las burbujas:
- a. Ajustar una pipeta P1000 a 200 μι.
+ a. Ajustar una pipeta P1000 a 200 μl.
  b. Introducir la punta de la pipeta en el puerto de cebado.
  c. Girar la rueda hasta que el indicador de volumen marque 220-230 µl o hasta que se pueda ver una pequeña cantidad de tampón entrar en la punta de la pipeta.
 
@@ -167,8 +167,7 @@ IMPORTANTE: Tenga cuidado a la hora de extraer el tampón. No retire más de 20-
 | --- | --- |
 | Buffer de secuenciación (SB) | 37,5 µl |
 | Biblioteca de ADN | 12 µl |
-| Library Beads (LIB) mezoladas (usto antes de usar, o Library Solution (LIS), si se requiere
- | 25,5 µl |
+| Library Beads (LIB) mezoladas (usto antes de usar, o Library Solution (LIS), si se requiere| 25,5 µl |
 | Volume final| 75 µl |
 
 9. Completar el cebado de la celda de flujo:
