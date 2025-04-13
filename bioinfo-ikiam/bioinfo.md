@@ -43,9 +43,14 @@ NOTA: Las placas de 96 pocillos están diseñadas para romperse en una sola dire
 
 2. Descongele los códigos de barras deseados a temperatura ambiente.
 
-3. Centrifugue brevemente los códigos de barras en una microcentrifuga para asegurarse de que el líquido esté en el fondo de los tubos y coloquelos en hielo
+3. Centrifugue brevemente los códigos de barras en una microcentrifuga o homogenize por micropipeta para asegurarse de que el líquido esté en el fondo de los tubos y coloquelos en hielo
 
 4. Descongelar el LongAmp Hot Start Taq 2X Master Mix, centrifugue brevemente, mezcle bien pipeteando y colóquelo en hielo.
+
+| Reactivo | uL | Rx |
+| --- | --- | --- |
+| Agua | 25 | ... uL|
+| Buffer 10X| 2,5 | ... uL|
 
 5. Preparar el ADN libre de nucleadas
  a. Transfiera 10 ng de cada muestra de ADN genómico a un tubo de PCR de pared delgada de 0,2 ml.
@@ -111,7 +116,10 @@ Nota: La tabla contiene volúmenes de ejemplo para referencia. Ajuste el volumen
 
 29. En un tubo Eppendorf DNA LoBind nuevo de 1,5 ml, diluya el adaptador rápido (RA) de la siguiente manera y pipetee la mezcla:
 
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 
