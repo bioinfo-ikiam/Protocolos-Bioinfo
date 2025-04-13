@@ -116,10 +116,10 @@ Nota: La tabla contiene volúmenes de ejemplo para referencia. Ajuste el volumen
 
 29. En un tubo Eppendorf DNA LoBind nuevo de 1,5 ml, diluya el adaptador rápido (RA) de la siguiente manera y pipetee la mezcla:
 
-| Command | Description |
+| Reactivo | Volumen |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Adaptador rápido | 1,5 µl |
+| Buffer adaptador | 3,5 µl |
 
 
 
