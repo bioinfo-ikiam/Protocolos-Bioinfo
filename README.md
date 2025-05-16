@@ -17,4 +17,4 @@ Presentar a investigadores recursos experimentales-prácticos de biotecnología 
 
 * Barcoding de plantas amazónicas
 * Metabarcoding de microorganismos
-* Análsis in silico: Lineal y Estrucutural
+* Análsis in silico: Lineal y Estructural
